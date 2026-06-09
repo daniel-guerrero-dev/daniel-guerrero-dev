@@ -5,9 +5,9 @@ Currently based in Colombia, working toward a CS degree.
 
 ## What I'm learning
 
-Javascript
-Web Fundamentals: HTML + CSS
-CS50 by Harvard
+- Javascript
+- Web Fundamentals: HTML + CSS
+- CS50 by Harvard
 
 ## Goals
 
