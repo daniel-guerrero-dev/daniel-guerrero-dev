@@ -1,6 +1,6 @@
 ## Hi. I'm Daniel 👋
 
-Physics student transitioning into software development.
+I'm a physics student transitioning into software development.
 Currently based in Colombia, working toward a CS degree.
 
 ## What I'm learning
@@ -12,7 +12,7 @@ Currently based in Colombia, working toward a CS degree.
 ## Goals
 
 - Fullstack web development
-- Software Development
+- Open source projects contribution
 - Remote Work
 - Working internationally
 
