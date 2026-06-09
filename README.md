@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi. I'm Daniel 👋
 
-<!--
-**daniel-guerrero-dev/daniel-guerrero-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics student transitioning into software development.
+Currently based in Colombia, working toward a CS degree.
 
-Here are some ideas to get you started:
+## What I'm learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Javascript
+Web Fundamentals: HTML + CSS
+CS50 by Harvard
+
+## Goals
+
+- Fullstack web development
+- Software Development
+- Remote Work
+- Working internationally
+
+## Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
